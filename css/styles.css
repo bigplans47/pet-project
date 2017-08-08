@@ -1,9 +1,22 @@
-body {
-  background-color: #009900;
-}
-
 h1 {
   text-align: center;
+}
+
+.buttons {
+  text-align: center;
+  padding-bottom: 30px;
+}
+
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.red-background {
+  background-color: red;
 }
 
 #pic {
